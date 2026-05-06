@@ -1,4 +1,5 @@
  Task — Deploy EC2 with Nginx using Terraform
+ 
  Objective
 
 The goal of this task was to:
