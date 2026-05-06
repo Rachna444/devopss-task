@@ -1,5 +1,5 @@
-📘 Task — Implement Failover Routing
-🎯 Objective
+ Task — Implement Failover Routing
+ Objective
 
 The goal of this task was to:
 
@@ -8,7 +8,7 @@ Deploy a primary Application Load Balancer (ALB) in one region
 Deploy a secondary (backup) ALB in another region
 Configure health checks
 Enable automatic failover using DNS routing
-🛠️ Steps Performed
+Steps Performed
 1️⃣ Primary ALB (Region A)
 Created an Application Load Balancer in Region A
 Attached target group (EC2 instances / backend services)
@@ -38,7 +38,7 @@ ALB in Region B
 Target groups health status
 Route 53 hosted zone records
 Health check configuration
-✅ Result
+Result
 Multi-region failover successfully implemented
 High availability achieved
 Automatic traffic switching during failure
