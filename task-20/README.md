@@ -1,12 +1,12 @@
-📘 Task — Deploy EC2 with Nginx using Terraform
-🎯 Objective
+ Task — Deploy EC2 with Nginx using Terraform
+ Objective
 
 The goal of this task was to:
 
 Launch an EC2 instance using Terraform
 Install and start Nginx automatically
 Make the web server accessible over the internet
-🛠️ Steps Performed
+ Steps Performed
 1️⃣ EC2 Instance Creation
 Created an EC2 instance using Terraform
 Selected a suitable Amazon Machine Image (AMI)
